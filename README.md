@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shiv410
-- 👀 I’m interested in learning Cloud Computing
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in learning Full Stack Java Development
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on a good work environment
 - 📫 How to reach me ...
 
