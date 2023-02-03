@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shivu410
+- 👋 Hi, I’m @shiv410
 - 👀 I’m interested in learning Cloud Computing
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on a good work environment
